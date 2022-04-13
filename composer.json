@@ -1,0 +1,23 @@
+{
+    "name": "sebastianluczak/rentier-x-sharing",
+    "description": "Common interfaces for apps in x-sharing model",
+    "homepage": "https://github.com/sebastianluczak/rentier-x-sharing",
+    "type": "library",
+    "require": {
+        "php": ">=8.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-0": {
+            "Rentier": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sebastian Łuczak",
+            "email": "sebastian.m.luczak@gmail.com",
+            "homepage": "https://brodaty.dev",
+            "role": "Developer"
+        }
+    ]
+}
